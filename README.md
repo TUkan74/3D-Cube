@@ -29,9 +29,3 @@ To use the application, compile and run the `Form1.cs` file within your C# IDE. 
 - Open the solution in Visual Studio.
 - Build the solution by navigating to `Build > Build Solution`.
 - Run the application by pressing `F5` or navigating to `Debug > Start Debugging`.
-
-## Contributing
-
-Contributions to this project are welcome. Please consider forking the repository and submitting a pull request with your enhancements or fixes.
-
-
